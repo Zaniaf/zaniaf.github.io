@@ -53,5 +53,8 @@ header.startup hr {
 }
 
 #mc_embed_signup form {
-   	 text-align: center;
+    display: block;
+    position: relative;
+    /* text-align: left; */
+    padding: 10px 0 10px 3%;
 }
