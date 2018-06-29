@@ -50,6 +50,8 @@ header.startup hr {
 	border-color: #ee4b08;
 	border-width: 3px;
 	cursor: pointer;
+}
 
-
+#mc_embed_signup form {
+   	 text-align: center;
 }
